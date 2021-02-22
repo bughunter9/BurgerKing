@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Merriweather:wght@700&display=swap');
+
+
+.container {
+    background-image: url('https://th.bing.com/th/id/OIP.Ke7A83p5JX3RWrC9fQ44QAHaE8?pid=ImgDet&rs=1');
+    height: 500px;
+    width: 100%;
+    display: block;
+    float: left;
+    background-color: lightpink;
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+  }
+  
+  .container--blend {
+    background-blend-mode: screen;
+  }
+  
+
+.wall{
+    padding-top: 60px;
+    padding-bottom: 20px;
+    color: black;
+    text-align: center;
+}
+
+.column3 {
+    float: left;
+    width: 47%;
+    padding: 5px;
+    height: 100px; 
+  }
+  
+.row3:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+.imga {
+    margin-left: 160px;
+    width:600px;
+    height:320px;
+}
+
+.imga2 {
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.imga3 {
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+.imga5 {
+  margin-bottom: 69px;
+  display: flex;
+  padding-left: 89px;
+  padding-right: 89px;
+  padding-top: 80px;
+  padding-bottom: 50px;
+}
+
+.imga5a{
+  padding-right: 55px;
+}
+
+.imga5b{
+  padding-right: 55px;
+}
+
+.wall2 {
+    background-color: lightpink;
+}
+
+.banner4{
+  background-image: url("https://www.burgerking.in/static/media/explore-menu-DK.39d5b5a0.jpg");
+  height: 38vh;
+  width: 144vh;
+  position: relative;
+  margin-bottom: 80px;
+  margin-left: 210px;
+  margin-right: 60px;
+}
+
+.cover{
+  padding-bottom: 8px;
+  margin-bottom: 70px;
+}
+
+h1{
+  font-family: 'RocknRoll One', sans-serif;
+}
+
+h2{
+  font-family: 'Merriweather', serif;
+}
+
+h4{
+  font-family: 'Balsamiq Sans', cursive;
+}

@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+
+.head {
+    background-color: #f8dc81;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.top-dealer {
+    background-color: #f6f6f6;
+    padding-top: 50px;
+}
+.imga9 {
+    padding-left: 100px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.dealer {
+    padding-left: 110px;
+}
+
+.limited {
+    background-color: #fcd1d1;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+.dealer2 {
+    padding-left: 110px;
+    padding-bottom: 50px;
+}
+
+.show-deals{
+    display: flex;
+    padding-left: 100px;
+    padding-right: 838px;
+}
+
+.banner5 {
+    background-image: url("https://www.burgerking.in/static/media/how-it-works-dk.c282dd0d.jpg");
+    height: 81vh;
+    position: relative;
+    margin-bottom: 50px;
+    margin-top: 48px;
+}
+
+h1 {
+    font-family: 'RocknRoll One', sans-serif;
+}

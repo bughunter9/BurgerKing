@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Merriweather:wght@700&display=swap');
+
+
+.homepage {
+    background-color: #faf3e0;
+}
+.banner1 {
+    background: url("https://burgerking-image.s3.amazonaws.com/15932472691xloyaltykvdesk1x1440x300jpg") center center;
+    height: 50vh;
+    position: relative;
+  }
+.homepage__info {
+    margin-top: 40px;
+    margin-bottom: 2px;
+    margin-left: 50px;
+  }
+
+.homepage__info > p {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.homepage__info > h1 {
+    margin-bottom: 30px;
+}
+
+.homepage__info > button {
+    border-radius: 30px;
+    text-transform: inherit;
+    margin: 5px;
+  }
+  
+.home__section {
+    display: flex;
+    padding: 20px;
+  }
+.menu {
+    padding-bottom: 20px;
+}
+
+img {
+    width: 400px;
+}
+.offers {
+    margin-left: 50px;
+}
+.menu2{
+    padding-bottom: 60px;
+}
+
+.home__section2 {
+    display: flex;
+    padding: 50px;
+}
+.banner2 {
+    background: url("https://burgerking-image.s3.amazonaws.com/1591255080NoneDskBnrTnT1440x300jpg") center center;
+    height: 50vh;
+    position: relative;
+    margin-bottom: 50px;
+  }
+
+.banner3 {
+    background: url("https://www.burgerking.in/static/media/home-bk-wall-dk.c480c9b5.jpg") center center;
+    height: 50vh;
+    position: relative;
+    margin-bottom: 50px;
+  }
+
+h1 {
+  font-family: 'RocknRoll One', sans-serif;
+}
+
